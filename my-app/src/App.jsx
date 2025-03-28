@@ -5,10 +5,13 @@ import './App.css'
 
 const Home = () => {
   return (
-    <div style={{ textAlign: "center", marginTop: "50px" }}>
+    
+      <>
       <h1>kadali Mourya</h1>
-      <p>kadali.mourya.s89.kalvium.community</p>
-    </div>
+      <h2>kadali.mourya.s89.kalvium.community</h2>
+      
+      </>
+    
   );
 };
 
